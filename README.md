@@ -13,7 +13,7 @@
 - [Resources](#resources)
 
 ### Description
-Scrapped all text from Power Points and PDFs provided to us. I then extracted keywords with Python using RAKE. The web app attempts to strictly match these extracted keywords. Also, all the descriptions were auto-summarized. 
+Scraped all text from Power Points and PDFs provided to us. I then extracted keywords with Python using RAKE. The web app attempts to strictly match these extracted keywords. Also, all the descriptions were auto-summarized. 
 
 ### Resources
 *None yet.*
