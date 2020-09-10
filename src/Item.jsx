@@ -28,7 +28,7 @@ const Item = React.forwardRef((props, ref) => {
 					</Grid>
 				</Grid>
 			</AccordionSummary>
-			<AccordionDetails>
+			<AccordionDetails style={{ overflow: 'scroll' }}>
 				<Grid container direction='column'>
 					<Grid item style={{ marginBottom: 5 }}>
 						<Typography style={{ }}>Score: {props.score === Number.MAX_SAFE_INTEGER ? '---' : props.score}</Typography>
